@@ -7,3 +7,7 @@ Console.WriteLine("Escriba su nombre");
 string name = Console.ReadLine();
 
 Console.WriteLine("Hola " + name);
+
+
+//Ejercicio 2
+Console.WriteLine("La hora es" + DateTime.Now);
