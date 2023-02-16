@@ -1,2 +1,9 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hola mundo, con C#");
+
+//https://github.com/ant-villasante98/aprendiendoC-.git
+//ejercicion 1
+
+Console.WriteLine("Escriba su nombre");
+string name = Console.ReadLine();
+
+Console.WriteLine("Hola " + name);
