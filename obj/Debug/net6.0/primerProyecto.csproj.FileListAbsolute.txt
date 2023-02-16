@@ -1,0 +1,15 @@
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/bin/Debug/net6.0/primerProyecto
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/bin/Debug/net6.0/primerProyecto.deps.json
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/bin/Debug/net6.0/primerProyecto.runtimeconfig.json
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/bin/Debug/net6.0/primerProyecto.dll
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/bin/Debug/net6.0/ref/primerProyecto.dll
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/bin/Debug/net6.0/primerProyecto.pdb
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/obj/Debug/net6.0/primerProyecto.csproj.AssemblyReference.cache
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/obj/Debug/net6.0/primerProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/obj/Debug/net6.0/primerProyecto.AssemblyInfoInputs.cache
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/obj/Debug/net6.0/primerProyecto.AssemblyInfo.cs
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/obj/Debug/net6.0/primerProyecto.csproj.CoreCompileInputs.cache
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/obj/Debug/net6.0/primerProyecto.dll
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/obj/Debug/net6.0/ref/primerProyecto.dll
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/obj/Debug/net6.0/primerProyecto.pdb
+/home/antonio/Documentos/OpenBootcamp/Csharp/primerProyecto/obj/Debug/net6.0/primerProyecto.genruntimeconfig.cache
